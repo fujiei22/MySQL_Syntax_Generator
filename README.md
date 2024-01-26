@@ -1,6 +1,6 @@
-# MySQL Syntax Generator
+# SqlSyntaxGenerator
 
-The SQL Data Generator is a command-line tool that facilitates the generation of SQL statements based on data from Excel files. This tool allows users to convert Excel data into INSERT or UPDATE SQL statements, providing a seamless way to interact with relational databases.
+The SqlSyntaxGenerator is a command-line tool that facilitates the generation of SQL statements based on data from Excel files. This tool allows users to convert Excel data into INSERT or UPDATE SQL statements, providing a seamless way to interact with relational databases.
 
 ## Usage
 ### 1. Install Dependencies:  
